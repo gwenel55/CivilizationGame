@@ -12,9 +12,9 @@ By Running ShowSemiCiv, you can run the final implementation of the project, whe
 <img width="502" alt="ECE1145_Git2" src="https://user-images.githubusercontent.com/77860961/235522618-09d09386-f090-4150-b646-5e7fafa3ad68.PNG">
 
 <h3>Technical Skills Aquired</h3>
-Designing and Implementing Testable Software Systems
-Git Branching and Version Control
-Applying Software Design Patterns
-Applying Coding Standards for Maintainability and Flexibility
-Developing Fault Tolerant Software with Exception Handling
-Conducting Peer Coding Review
+- Designing and Implementing Testable Software Systems<br>
+- Git Branching and Version Control<br>
+- Applying Software Design Patterns<br>
+- Applying Coding Standards for Maintainability and Flexibility<br>
+- Developing Fault Tolerant Software with Exception Handling<br>
+- Conducting Peer Coding Review<br>
